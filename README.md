@@ -21,6 +21,9 @@ OpenShift AI platform:
 Red Hat OpenShift AI provides a Kubernetes-native MLOps platform to train, fine‑tune, and deploy generative models (LLMs) across hybrid cloud and edge, with GPU support and end‑to‑end pipelines.
 ​
 OpenShift Lightspeed & assistants: 
+
 Emerging features like OpenShift Lightspeed add a chat interface that can produce YAML, guide cluster operations, and lower the cognitive load of managing OpenShift clusters for DevOps engineers.
 ​
-enAI apps on OpenShift: Teams can host vector databases (e.g., Elasticsearch) and build RAG-based applications on OpenShift, using OpenShift AI to manage the full lifecycle from data prep and model tuning to serving and monitorin
+enAI apps on OpenShift: 
+
+Teams can host vector databases (e.g., Elasticsearch) and build RAG-based applications on OpenShift, using OpenShift AI to manage the full lifecycle from data prep and model tuning to serving and monitorin
